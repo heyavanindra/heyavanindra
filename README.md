@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=heyavanindra&label=Profile%20views&theme=algolia&style=flat" alt="heyavanindra" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyavanindra&theme=algolia" alt="heyavanindra" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyavanindra&theme=alduin" alt="heyavanindra" /></a> </p>
 
 - 📫 How to reach me **Heyavanindra@gmail.com**
 ---
@@ -22,7 +22,15 @@
 ----
 <br>
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyavanindra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyavanindra&layout=compact&theme=algolia&langs_count=10&hide=python" /></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyavanindra&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyavanindra&layout=compact&theme=dark&langs_count=10&hide=python" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyavanindra&theme=algolia" alt="heyavanindra" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyavanindra&theme=dark" alt="heyavanindra" /></p>
+
+## 📊 My LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/heyavanindra?theme=dark&font=Jolly%20Lodger&ext=heatmap)](https://leetcode.com/heyavanindra/)
+
+</div>
