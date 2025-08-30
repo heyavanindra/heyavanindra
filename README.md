@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,next,react,nodejs,aws,bash,linux,golang,docker,redis,rabbitmq,bun,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,next,react,nodejs,aws,bash,linux,golang,docker,redis,rabbitmq,bun,git&theme=dark)]()
  </p>
 
 ----
