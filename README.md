@@ -29,7 +29,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyavanindra&layout=compact&theme=dark&langs_count=10&hide=python" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyavanindra&theme=dark" alt="heyavanindra" /></p>
-
+---
 ## 📊 My LeetCode Stats
 
 <div align="center">
